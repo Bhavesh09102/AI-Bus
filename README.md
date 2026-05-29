@@ -10,6 +10,7 @@ lets go through three patterns:
 
 2)Confidence filtering - if a memory is in the ai bus but what if its too old then there comes the confidence score 
 
+
 3)Tiered Injection- there are different type of memories like working mrmory,episodic memory,semantic memory if we inject all three at once that will lead to wastage of tokens
 
 
