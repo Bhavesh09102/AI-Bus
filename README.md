@@ -5,7 +5,6 @@ wont giving context will cost lot of tokens ?
 we are not content stuffing (dumping all memory all at once)
 we are emphasizing on selective retrieval (3-5 relevant memories for their specific prompt)
 
-
 lets go through three patterns:
 1)Pre Prompt Injection - the user ai query do u know about this msg and then sent 3 relative memory to the prompt
 
